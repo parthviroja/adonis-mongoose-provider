@@ -1,0 +1,28 @@
+{
+  "name": "adonis-mongoose-provider",
+  "version": "1.0.0",
+  "description": "Mongoose Provider for Adonis",
+  "main": "providers/MongooseProvider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthviroja/adonis-mongoose-provider.git"
+  },
+  "author": "Parth M. viroja <parth.m.viroja@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthviroja/adonis-mongoose-provider/issues"
+  },
+  "homepage": "https://github.com/parthviroja/adonis-mongoose-provider#readme",
+  "keywords": [
+    "adonis",
+    "mongoose",
+    "adonisjs",
+    "mongodb"
+  ],
+  "dependencies": {
+    "mongoose": "^5.4.17"
+  }
+}
